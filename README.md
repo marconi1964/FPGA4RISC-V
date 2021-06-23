@@ -1,5 +1,5 @@
 # FPGA4RISC-V from Scratch
 
 
-Licence
+## Licence
 Based on MIT license, check [LICENSE](./LICENSE) for details
